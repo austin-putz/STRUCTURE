@@ -6,11 +6,11 @@ Documentation for the STRUCTURE software to discover underlying population struc
 
 > Like anything open source, absolutely no warranty with anything in this respository or my other GitHub repositories. Not associated with my role as Geneticist with Hypor. Just some dude trying to provide minimal documentation for myself and others who need to learn how to use STRUCTURE software for a genetic analysis. I'll do my best to keep it up to date, but please email me with updates or things to add. I don't mind. 
 
-# Documentation
+## Documentation
 
 I don't think there is any. Free and open-source software is usually extremely poorly documented. This software is no different. Here is a link to the website ([STRUCTURE](https://web.stanford.edu/group/pritchardlab/structure.html)), but I don't see any documentation anywhere. I think most people learn by word of mouth. 
 
-# File Input Format
+## File Input Format
 
 The genotype file input follows
 1) Column 1 = Identification of the animal or human
@@ -28,6 +28,8 @@ In animal breeding, we commonly use dense genotypes.
 ![Screenshot of dense genotype format](/Screenshots/dense_genotype_format.png?raw=true "Dense genotype format")
 
 You can use the `dense_to_structure.sh` shell script for the conversion. It's attached. Simply make it executable with `chmod 775 dense_to_structure.sh`. 
+
+## Running Structure
 
 You can run structure with the following command:
 
