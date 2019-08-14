@@ -1,6 +1,6 @@
 # STRUCTURE
 
-Documentation for the STRUCTURE software to discover underlying population structure
+Documentation for the STRUCTURE software to discover underlying population structure. Commonly used in human population genetics research and animal breeding. 
 
 # Disclaimer
 
