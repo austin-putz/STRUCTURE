@@ -35,7 +35,7 @@ You can run structure with the following command:
 ./structure -N 237 -L 49119 -K 6 -i structure.in -o output1.txt
 ```
 
-Where `237` is the number of individuals, `49119` is the number of SNP (2 times this number of columns associated with these), `6` is the magical 'K' value specified to the program. This K value is the number of populations you assume (please see Lawson, van Dorp, and Falush, 2018, doi:10.1038/s41467-018-05257-7 for more on this value). 
+Where `237` is the number of individuals, `49119` is the number of SNP (2 times this number of columns associated with these), `6` is the magical 'K' value specified to the program. This K value is the number of populations you assume (please see Lawson, van Dorp, and Falush, 2018, doi:10.1038/s41467-018-05257-7 for more on this value). `structure.in` is the input file name (genotype file) and `output1.txt` is the name of the output file (ancestrial composition or breed composition output is here). 
 
 
 
