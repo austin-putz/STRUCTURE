@@ -4,7 +4,7 @@ Documentation for the STRUCTURE software to discover underlying population struc
 
 # Disclaimer
 
-Like anything open source, absolutely no warranty with anything in this respository or my other GitHub repositories. Not associated with my role as Geneticist with Hypor. Simply documentation for myself and others who need to learn how to use STRUCTURE software for a genetic analysis. 
+> Like anything open source, absolutely no warranty with anything in this respository or my other GitHub repositories. Not associated with my role as Geneticist with Hypor. Simply documentation for myself and others who need to learn how to use STRUCTURE software for a genetic analysis. 
 
 # Documentation
 
