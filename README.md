@@ -11,10 +11,14 @@ Like anything open source, absolutely no warranty with anything in this resposit
 The genotype file input follows
 1) Column 1 = Identification of the animal or human
 2) Column 2 = Group identification
-3) Column 3,4,...,n = alleles coded (1 and 2)
+3) Column 3,4,...,n = alleles coded (1 and 2 for alleles A or B, 0 is missing)
 
+![Screenshot of Genotype File](/Screenshots/structure_input_genotype_file_format.png?raw=true "Genotype file input")
 
-![Screenshot of Genotype File](/Screenshots/structure_input_genotype_file.png?raw=true "Genotype file input")
+In animal breeding, we commonly use dense genotypes. 
+
+![Screenshot of dense genotype format](/Screenshots/dense_genotype_format.png?raw=true "Dense genotype format")
+
 
 
 
