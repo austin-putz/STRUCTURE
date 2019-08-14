@@ -8,6 +8,13 @@ Like anything open source, absolutely no warranty with anything in this resposit
 
 # File Input Format
 
+The genotype file input follows
+1) Column 1 = Identification of the animal or human
+2) Column 2 = Group identification
+3) Column 3,4,...,n = alleles coded (1 and 2)
+
+
+![Screenshot of Genotype File](/Screenshots/structure_input_genotype_file.png?raw=true "Genotype file input")
 
 
 
