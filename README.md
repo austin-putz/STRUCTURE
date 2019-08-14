@@ -19,7 +19,7 @@ The genotype file input follows
 
 I make sure everything starts at the same character number. 
 
-From the dense genotype codes counting (Illumina) 'B' alleles, 0,1,2 (5 missing) format to this format requires coding 0 -> 1 1, 1 -> 1 2, and 2 -> 2 2. 
+From the dense genotype codes counting (Illumina) 'B' alleles, 0,1,2 (5 missing) format to this format requires coding 0 -> 1 1, 1 -> 1 2, 2 -> 2 2, and 5 (missing) -> 0 0. 
 
 ![Screenshot of Genotype File](/Screenshots/structure_input_genotype_file_format.png?raw=true "Genotype file input")
 
