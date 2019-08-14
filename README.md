@@ -27,7 +27,13 @@ In animal breeding, we commonly use dense genotypes.
 
 ![Screenshot of dense genotype format](/Screenshots/dense_genotype_format.png?raw=true "Dense genotype format")
 
-You can use the `dense_to_structure.sh` shell script for the conversion. It's attached. Simply make it executable with `chmod 775 dense_to_structure.sh`. 
+You can use the `dense_to_structure.sh` shell script for the conversion. It's attached. Simply make it executable with `chmod 775 dense_to_structure.sh`. You can run this script with the following commands:
+
+```shell
+./dense_to_structure.sh -f genotype_file.mrk -n 001
+```
+
+where `genotype_file.mrk` is the name of the dense genotype file (ID 120120015120... format) and `001` is the name you want to give this population, it may have to be numeric such as 001, but I'm not sure yet... You can use `./dense_to_structure.sh` to see the options if you forget. This will format the file as above. 
 
 ## Running Structure
 
