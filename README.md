@@ -14,7 +14,7 @@ The genotype file input follows
 3) Column 3,4,...,n = alleles coded (1 and 2)
 
 
-![Screenshot of Genotype File](/Screenshots/structure_input_genotype_file.png?raw=true "Genotype file input")
+![Screenshot of Genotype File](/Screenshots/structure_input_genotype_file_format.png?raw=true "Genotype file input")
 
 
 
